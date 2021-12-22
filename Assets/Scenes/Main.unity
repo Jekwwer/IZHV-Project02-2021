@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
+  m_IndirectSpecularColor: {r: 0.12732342, g: 0.13415183, b: 0.12107959, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1026,9 +1026,9 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.17980021
+    x: 0.22272727
     y: 0
-    width: 0.6403996
+    width: 0.55454546
     height: 1
   near clip plane: 0.1
   far clip plane: 10
@@ -1191,7 +1191,7 @@ MonoBehaviour:
     x: 0
     y: 2
     z: 0
-  spawnSize: 1
+  spawnSize: 0.55
   spawnLayer: Obstacle
   obstaclePrefab: {fileID: 444823138257878674, guid: d9e6dffab2dc3ef4dbf678bf85c63c93, type: 3}
 --- !u!1 &1213650991
