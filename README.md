@@ -5,6 +5,8 @@ Solution for the 2nd assignment from the subject _'IZHV (Introduction to Game De
 
 ## Task: Unity Game Fix Exercise
 
+[Full Assignment Description](http://cphoto.fit.vutbr.cz/ludo/courses/izhv/exercises/e2/)
+
 **Exercise Objectives:**
 
 1. **Acquaintance with Unity Editor:**
@@ -30,7 +32,6 @@ Solution for the 2nd assignment from the subject _'IZHV (Introduction to Game De
 
 3. **Export and Integrate:**
    - Once you're satisfied with the gameplay, proceed to the following section to learn how to export the game and incorporate it into your web template.
-
 
 ## Evaluation
 
