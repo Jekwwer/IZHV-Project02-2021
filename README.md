@@ -1,7 +1,7 @@
 # IZHV-Exercise02-2021
 
-Solution for the 2nd assignment from the subject _'IZHV (Introduction to Game Development)'_ for the academic year 2021/22 at VUT FIT. \
-Řešení 2. úkolu z předmětu _'IZHV (Základy herního vývoje)'_ pro akademický rok 2021/22 na VUT FIT.
+Solution for the 2nd assignment from the course _'[IZHV (Introduction to Game Development)](https://www.fit.vut.cz/study/course/250838/)'_ for the academic year 2021/22 at VUT FIT. \
+Řešení 2. úkolu z předmětu _'[IZHV (Základy herního vývoje)](https://www.fit.vut.cz/study/course/250838/.cs)'_ pro akademický rok 2021/22 na VUT FIT.
 
 ## Task: Unity Game Fix Exercise
 
