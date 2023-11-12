@@ -1,38 +1,36 @@
-# IZHV-Exercise02-2021
+# **IZHV-Project02-2021:**
 
-Solution for the 2nd assignment from the course _'[IZHV (Introduction to Game Development)](https://www.fit.vut.cz/study/course/250838/)'_ for the academic year 2021/22 at VUT FIT. \
-Řešení 2. úkolu z předmětu _'[IZHV (Základy herního vývoje)](https://www.fit.vut.cz/study/course/250838/.cs)'_ pro akademický rok 2021/22 na VUT FIT.
+### Unity Game Fix
 
-## Task: Unity Game Fix Exercise
+> 🎓 **University**: [VUT FIT](https://www.fit.vut.cz/)
+>
+> 📚 **Course**: [Introduction to Game Development (IZHV)](https://www.fit.vut.cz/study/course/250838/)
+>
+> 📅 **Academic Year**: 2021/22
 
-[Full Assignment Description](http://cphoto.fit.vutbr.cz/ludo/courses/izhv/exercises/e2/)
+## 🎯 Task Overview: Diagnostic and Refinement of the [Game Template](template.zip)
 
-**Exercise Objectives:**
+Begin the examination by initiating the game with the Play button—the triangle icon at the top of the editor. This exercise will reveal various opportunities to enhance the player experience:
 
-1. **Acquaintance with Unity Editor:**
+- 🕹️ **Intuitive Mechanics Deficiency**: Refine the control scheme to ensure it is understandable and user-friendly. Suggestion: Assign 'Space' for jumping and 'W' and 'S' for action swapping.
+- 📈 **Excessive Challenge**: Balance the difficulty by fine-tuning the jump mechanics and swapping functions to ensure they are fair and satisfying.
+- 🔍 **Gameplay Discontent**: Address the issue of large obstacles which cause frequent collisions. Rescaling them is critical for a more equitable gameplay experience.
+- 🔄 **Uniformity in Game Dynamics**: Introduce variability in the obstacle spawning rate to prevent gameplay from becoming too predictable and to enhance engagement.
 
-   - Explore and familiarize yourself with the Unity Editor layout and features.
-   - To assist in understanding Unity basics, refer to these resources:
-     - [Unity Learn](https://learn.unity.com/)
-     - [Unity Manual](https://docs.unity3d.com/Manual/index.html)
+In pursuit of these objectives, consider the following actions:
 
-2. **Diagnose and Fix the Game Template:**
+- 🎚️ **GameObject Property Optimization**: Explore the `Player` and `Spawner` GameObject properties to identify and implement beneficial adjustments.
+- ⚙️ **Physics Parameters Adjustment**: Modify the gravity factor in the `Player`'s Rigidbody 2D or the jump force parameters in the Player script to improve control and feel.
+- 🧩 **Spawning Mechanism Enhancement (optional)**: Revise the Spawner's script to diversify the spawning patterns, adding unpredictability and challenge.
+- 📝 **Incorporation of Instructional Text (optional)**: Implement clear, in-game textual instructions to inform players about the controls and game objectives.
 
-   - Launch the game using the Play button (triangle icon at the top). This will highlight various problems within the game. Here are some issues you may notice:
-     - **Unclear Mechanics:** The game's controls are not intuitive. (Hint: Use 'Space' for jumping and 'W' and 'S' for swapping.)
-     - **High Difficulty:** The jump doesn't surpass obstacles efficiently, and swapping feels challenging.
-     - **Frustrating Gameplay:** The obstacles, or boxes, are too large, leading to unjust collisions.
-     - **Repetitive Elements:** The spawning rate of the boxes is too consistent, lacking variety.
-   - Your mission is to address these problems:
-     - Experiment with the properties of the `Player` and `Spawner` GameObjects in the scene.
-     - Adjust properties such as the gravity in the `Player`'s Rigidbody 2D or the jump parameters in the Player script.
-     - Modify the spawn rate within the Spawner's script.
-     - Optionally, if you're feeling bold, tweak the Spawner script to make boxes appear in diverse patterns.
-     - Add textual instructions in the game to guide players on controls and objectives.
+These refinements aim to polish the game design, ensuring it provides an engaging challenge while remaining accessible and enjoyable to a wide range of players. Each modification should be carefully considered to optimize the overall gameplay experience.
 
-3. **Export and Integrate:**
-   - Once you're satisfied with the gameplay, proceed to the following section to learn how to export the game and incorporate it into your web template.
+For the nitty-gritty on the assignment requirements and what’s expected, check out the [Full Assignment Description](http://cphoto.fit.vutbr.cz/ludo/courses/izhv/exercises/e2/).
 
-## Evaluation
+## 📊 Evaluation Results
 
-Total points: **6/6**
+The project successfully fulfilled the requirements.
+
+🟢🟢🟢🟢🟢  
+**Total Points: 6/6**
